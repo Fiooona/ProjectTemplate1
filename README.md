@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Property of [Your Name Here]
 
 # Includes open source libraries
@@ -28,3 +29,7 @@ SOFTWARE.
 
 # Other Licenses
 * See the licenses folder in this directory
+=======
+# ProjectTemplate1
+use bootstrap and H5BP
+>>>>>>> dcf5023ad6be32b77ca13c0f25836bcd71ea6221
