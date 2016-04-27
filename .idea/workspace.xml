@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="668acee5-3832-409e-924f-345c248a9d51" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Fiona\myProject\ProjectTemplate1\LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Fiona\myProject\ProjectTemplate1\apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Fiona\myProject\ProjectTemplate1\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\Fiona\myProject\ProjectTemplate1\humans.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectTemplate1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,8 +125,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="591" />
-    <option name="y" value="99" />
+    <option name="x" value="383" />
+    <option name="y" value="130" />
     <option name="width" value="1353" />
     <option name="height" value="885" />
   </component>
@@ -242,7 +237,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="591" y="99" width="1353" height="885" extended-state="0" />
+    <frame x="383" y="130" width="1353" height="885" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="1053">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="702">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
