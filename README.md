@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Property of [Your Name Here]
 
 # Includes open source libraries
 * [HTML5 Boilerplate](http://h5bp.com/)
